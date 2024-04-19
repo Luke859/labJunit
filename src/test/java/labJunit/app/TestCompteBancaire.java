@@ -22,7 +22,6 @@ public class TestCompteBancaire {
         CompteBancaire cb = new CompteBancaire();
         assertEquals(cb.crediterSolde(1000,300), 1300);
     }
-
     @Test
     void testSoldeCrediterNegatif() {
         CompteBancaire cb = new CompteBancaire();
