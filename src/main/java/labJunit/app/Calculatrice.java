@@ -1,4 +1,4 @@
-package labJuinit.app;
+package labJunit.app;
 
 public class Calculatrice {
 
